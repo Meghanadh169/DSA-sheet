@@ -14,6 +14,7 @@ LeetCode solutions synced using LeetHub.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Meghanadh169/DSA-sheet/tree/master/0007-reverse-integer) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |

@@ -12,6 +12,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
@@ -38,4 +39,12 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->

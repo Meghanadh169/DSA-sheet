@@ -7,16 +7,13 @@ class Solution {
         if(s.isEmpty())return 0;
         for(int r=0;r<n;r++){
             char ch=s.charAt(r);
-            map.put(ch,map.getOrDefault(ch,0)+1);
-            
-            while(map.get(ch)>1){
-                 
-                char c=s.charAt(l);
-                 map.put(c,map.get(c)-1);
-                 l++;
-                 
-                 max=Math.max(max,r-l+1);
-            }
+             
+             if(map.containsKey(ch)){
+                l=Math.max(l,map.get(ch)+1);
+             }
+             
+            map.put(ch,r);
+             
             max=Math.max(max,r-l+1);
         }
         return max;

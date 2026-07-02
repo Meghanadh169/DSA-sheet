@@ -17,6 +17,7 @@ LeetCode solutions synced using LeetHub.
 | [0001-two-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Meghanadh169/DSA-sheet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -52,6 +53,7 @@ LeetCode solutions synced using LeetHub.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Meghanadh169/DSA-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -59,6 +61,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Enumeration
 |  |
@@ -80,4 +83,8 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

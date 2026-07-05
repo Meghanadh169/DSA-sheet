@@ -7,6 +7,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Meghanadh169/DSA-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Meghanadh169/DSA-sheet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -95,6 +96,7 @@ LeetCode solutions synced using LeetHub.
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |

@@ -29,6 +29,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0007-reverse-integer](https://github.com/Meghanadh169/DSA-sheet/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Meghanadh169/DSA-sheet/tree/master/0069-sqrtx) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@ LeetCode solutions synced using LeetHub.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Meghanadh169/DSA-sheet/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory

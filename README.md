@@ -15,6 +15,7 @@ LeetCode solutions synced using LeetHub.
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Meghanadh169/DSA-sheet/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Meghanadh169/DSA-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Meghanadh169/DSA-sheet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
@@ -112,6 +113,7 @@ LeetCode solutions synced using LeetHub.
 | [0162-find-peak-element](https://github.com/Meghanadh169/DSA-sheet/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Meghanadh169/DSA-sheet/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |

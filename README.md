@@ -9,6 +9,7 @@ LeetCode solutions synced using LeetHub.
 | [0001-two-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Meghanadh169/DSA-sheet/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meghanadh169/DSA-sheet/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ LeetCode solutions synced using LeetHub.
 | [0033-search-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Meghanadh169/DSA-sheet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Meghanadh169/DSA-sheet/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meghanadh169/DSA-sheet/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
@@ -146,4 +148,8 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Meghanadh169/DSA-sheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

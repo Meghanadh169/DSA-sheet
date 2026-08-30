@@ -70,6 +70,7 @@ LeetCode solutions synced using LeetHub.
 | [0076-minimum-window-substring](https://github.com/Meghanadh169/DSA-sheet/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Meghanadh169/DSA-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -152,4 +153,8 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

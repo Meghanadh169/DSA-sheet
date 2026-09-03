@@ -66,6 +66,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Meghanadh169/DSA-sheet/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -158,6 +159,11 @@ LeetCode solutions synced using LeetHub.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Meghanadh169/DSA-sheet/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -44,6 +44,7 @@ LeetCode solutions synced using LeetHub.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -67,6 +68,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Meghanadh169/DSA-sheet/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -160,10 +162,12 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Meghanadh169/DSA-sheet/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -163,6 +163,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Meghanadh169/DSA-sheet/tree/master/0225-implement-stack-using-queues) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Meghanadh169/DSA-sheet/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
@@ -170,4 +171,12 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Meghanadh169/DSA-sheet/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Meghanadh169/DSA-sheet/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

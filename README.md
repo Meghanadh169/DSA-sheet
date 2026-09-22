@@ -13,6 +13,7 @@ LeetCode solutions synced using LeetHub.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meghanadh169/DSA-sheet/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -93,10 +94,12 @@ LeetCode solutions synced using LeetHub.
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
 |  |
@@ -112,6 +115,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +125,7 @@ LeetCode solutions synced using LeetHub.
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meghanadh169/DSA-sheet/tree/master/0162-find-peak-element) |
+| [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Meghanadh169/DSA-sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |

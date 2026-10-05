@@ -16,6 +16,7 @@ LeetCode solutions synced using LeetHub.
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Meghanadh169/DSA-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Meghanadh169/DSA-sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -128,6 +129,7 @@ LeetCode solutions synced using LeetHub.
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Meghanadh169/DSA-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Meghanadh169/DSA-sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Meghanadh169/DSA-sheet/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |

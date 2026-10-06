@@ -76,6 +76,7 @@ LeetCode solutions synced using LeetHub.
 | [0076-minimum-window-substring](https://github.com/Meghanadh169/DSA-sheet/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Meghanadh169/DSA-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -96,6 +97,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -173,6 +175,7 @@ LeetCode solutions synced using LeetHub.
 | [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Meghanadh169/DSA-sheet/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Meghanadh169/DSA-sheet/tree/master/0225-implement-stack-using-queues) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Meghanadh169/DSA-sheet/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -181,6 +184,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |

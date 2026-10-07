@@ -1,47 +1,53 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-        if(bloomDay.length<(long)m*k)return -1;
-        int min=Integer.MAX_VALUE;
-        int max=Integer.MIN_VALUE;
-        for(int k1:bloomDay){
-            min=Math.min(min,k1);
-            max=Math.max(max,k1);
-        }
+        int min=1;
+        int max=bloomDay[0];
+         
+        for(int i=0;i<bloomDay.length;i++){
 
-       int l=min;
-       int r=max;
-       int ans=-1;
-       while(l<=r){
-        int mid=l+(r-l)/2;
-        if(min_days(bloomDay,m,k,mid)==true){
-            ans=mid;
-            r=mid-1;
+            max=Math.max(max,bloomDay[i]);
         }
-        else {
-            l=mid+1;
-        }
-       }
-       return ans;
-       
-        
-    }
-    private boolean min_days(int[] bloomDay,int m,int k,int min){
-            int count=0;
-             int b=0;
-            for(int j=0;j<bloomDay.length;j++){
-                if(bloomDay[j]<=min){
-                   count++;
-                
-                if(count==k){
-                  b++;
-                  count=0;
-                }}
-                else{
-                    count=0;
-                }
+        int l=min;
+        int r=max;
+        int ans=-1;
+        while(l<=r){
+
+            int mid=l+(r-l)/2;
+
+            if(findminimumDays(bloomDay,mid,m,k)){
+                ans=mid;
+                r=mid-1;
+
             }
-            return b>=m;
-            
+            else{
+                l=mid+1;
+            }
+        }
+        return ans ;
+    }
+    private boolean findminimumDays(int[] bloomDay,int mid,int m,int k){
 
-}
+        int kcount=0;
+        int mcount=0;
+
+        for(int i=0;i<bloomDay.length;i++){
+
+            if(bloomDay[i]<=mid){
+                kcount++;
+                if(kcount==k){
+                    mcount++;
+                    kcount=0;
+                    
+                }
+               
+            }
+            else{
+                kcount=0;
+            }
+           
+           
+           
+        }
+         return mcount>=m;
+    }
 }

@@ -17,6 +17,7 @@ LeetCode solutions synced using LeetHub.
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Meghanadh169/DSA-sheet/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Meghanadh169/DSA-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -115,6 +116,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Meghanadh169/DSA-sheet/tree/master/0735-asteroid-collision) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Meghanadh169/DSA-sheet/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
@@ -182,6 +184,7 @@ LeetCode solutions synced using LeetHub.
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Meghanadh169/DSA-sheet/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Meghanadh169/DSA-sheet/tree/master/0225-implement-stack-using-queues) |
+| [0735-asteroid-collision](https://github.com/Meghanadh169/DSA-sheet/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |

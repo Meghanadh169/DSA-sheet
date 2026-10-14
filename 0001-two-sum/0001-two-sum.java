@@ -7,7 +7,6 @@ class Solution {
             if (nums[left] + nums[right] == target) {
                 return new int[]{left, right};
             }
-
             right++;
 
             if (right == nums.length) { 

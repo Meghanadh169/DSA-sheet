@@ -82,6 +82,7 @@ LeetCode solutions synced using LeetHub.
 | [0227-basic-calculator-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0227-basic-calculator-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Meghanadh169/DSA-sheet/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -119,6 +120,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Meghanadh169/DSA-sheet/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Meghanadh169/DSA-sheet/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Meghanadh169/DSA-sheet/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@ LeetCode solutions synced using LeetHub.
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
+| [0844-backspace-string-compare](https://github.com/Meghanadh169/DSA-sheet/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +191,7 @@ LeetCode solutions synced using LeetHub.
 | [0225-implement-stack-using-queues](https://github.com/Meghanadh169/DSA-sheet/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0227-basic-calculator-ii) |
 | [0735-asteroid-collision](https://github.com/Meghanadh169/DSA-sheet/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Meghanadh169/DSA-sheet/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |

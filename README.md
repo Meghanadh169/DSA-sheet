@@ -43,6 +43,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Meghanadh169/DSA-sheet/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Meghanadh169/DSA-sheet/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Meghanadh169/DSA-sheet/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
@@ -225,4 +226,8 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghanadh169/DSA-sheet/tree/master/0084-largest-rectangle-in-histogram) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Meghanadh169/DSA-sheet/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

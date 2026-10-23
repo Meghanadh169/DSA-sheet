@@ -48,12 +48,14 @@ LeetCode solutions synced using LeetHub.
 | [0069-sqrtx](https://github.com/Meghanadh169/DSA-sheet/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0227-basic-calculator-ii) |
+| [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -230,4 +232,9 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Meghanadh169/DSA-sheet/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

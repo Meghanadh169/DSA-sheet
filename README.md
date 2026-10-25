@@ -10,6 +10,7 @@ LeetCode solutions synced using LeetHub.
 | [0033-search-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Meghanadh169/DSA-sheet/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghanadh169/DSA-sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -118,6 +119,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -237,4 +239,8 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

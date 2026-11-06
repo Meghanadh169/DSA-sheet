@@ -1,23 +1,31 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>>list=new ArrayList<>();
-        boolean[] bool=new boolean[nums.length];
-        generateAllPermutations(nums,list,new ArrayList<Integer>(),bool);
-        return list;
+        
+        List<List<Integer>> ansList=new ArrayList<>();
+        permutations(0,nums,ansList);
+        return ansList;
     }
-    private static void generateAllPermutations(int[] nums, List<List<Integer>>list,ArrayList<Integer>ds,boolean[] bool){
-
-        if(ds.size()==nums.length){
-            list.add(new ArrayList(ds));
-        }
-        for(int i=0;i<nums.length;i++){
-            if(!bool[i]){
-                bool[i]=true;
+    private static void permutations(int index,int[] nums,List<List<Integer>> ansList){
+        if(index==nums.length){
+            List<Integer> ds=new ArrayList<>();
+            for(int i=0;i<nums.length;i++){
                 ds.add(nums[i]);
-                generateAllPermutations(nums,list,ds,bool);
-                ds.remove(ds.size()-1);
-                bool[i]=false;
             }
+             ansList.add(new ArrayList<Integer>(ds));
+         return;
         }
+       
+        for(int i=index;i<nums.length;i++){
+
+            swap(i,nums,index);
+            permutations(index+1,nums,ansList);
+            swap(i,nums,index);
+
+        }
+    }
+    private static void  swap(int i,int[] nums,int index){
+        int temp=nums[i];
+        nums[i]=nums[index];
+        nums[index]=temp;
     }
 }

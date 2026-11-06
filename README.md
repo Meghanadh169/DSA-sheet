@@ -11,6 +11,7 @@ LeetCode solutions synced using LeetHub.
 | [0035-search-insert-position](https://github.com/Meghanadh169/DSA-sheet/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh169/DSA-sheet/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghanadh169/DSA-sheet/tree/master/0084-largest-rectangle-in-histogram) |
@@ -116,6 +117,7 @@ LeetCode solutions synced using LeetHub.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
@@ -248,6 +250,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh169/DSA-sheet/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

@@ -1,21 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> list=new ArrayList<>();
-        ArrayList<Integer>current=new ArrayList<>();
-         printAllSubSet(0,nums,current,list);
+        findAllSubSets(0,nums,new ArrayList<>(),list);
          return list;
     }
-    private void printAllSubSet(int i,int[] nums,ArrayList<Integer> current,List<List<Integer>> list){
-        int n=nums.length;
+    private static void findAllSubSets(int i, int[] nums, ArrayList<Integer> ds,List<List<Integer>> list){
+
         if(i==nums.length){
-            list.add(new ArrayList<>(current));
+            list.add(new ArrayList<>(ds));
             return;
         }
-
-        current.add(nums[i]);
-        printAllSubSet(i + 1, nums, current, list);
-        current.remove(current.size() - 1);
-         printAllSubSet(i + 1, nums, current, list);
+        ds.add(nums[i]);
+        findAllSubSets(i+1,nums,ds,list);
+        ds.remove(ds.size()-1);
+        findAllSubSets(i+1,nums,ds,list);
 
     }
 }

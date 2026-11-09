@@ -12,6 +12,7 @@ LeetCode solutions synced using LeetHub.
 | [0040-combination-sum-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh169/DSA-sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Meghanadh169/DSA-sheet/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghanadh169/DSA-sheet/tree/master/0084-largest-rectangle-in-histogram) |
@@ -251,6 +252,11 @@ LeetCode solutions synced using LeetHub.
 | [0040-combination-sum-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh169/DSA-sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Meghanadh169/DSA-sheet/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Meghanadh169/DSA-sheet/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

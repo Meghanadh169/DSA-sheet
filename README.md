@@ -9,6 +9,7 @@ LeetCode solutions synced using LeetHub.
 | [0001-two-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Meghanadh169/DSA-sheet/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Meghanadh169/DSA-sheet/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh169/DSA-sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
@@ -39,6 +40,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0001-two-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghanadh169/DSA-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Meghanadh169/DSA-sheet/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Meghanadh169/DSA-sheet/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
@@ -190,6 +192,7 @@ LeetCode solutions synced using LeetHub.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Meghanadh169/DSA-sheet/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
 ## Stack
@@ -249,6 +252,7 @@ LeetCode solutions synced using LeetHub.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Meghanadh169/DSA-sheet/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Meghanadh169/DSA-sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
@@ -259,6 +263,11 @@ LeetCode solutions synced using LeetHub.
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Meghanadh169/DSA-sheet/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Meghanadh169/DSA-sheet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Meghanadh169/DSA-sheet/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

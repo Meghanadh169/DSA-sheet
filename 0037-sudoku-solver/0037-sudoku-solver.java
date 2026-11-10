@@ -12,7 +12,7 @@ class Solution {
                     for(int k=1;k<=9;k++){
                         if(isValid(board,i,j,k)){
                             board[i][j]=(char)('0'+ k);
-                            if(solve(board)==true){
+                            if(solve(board)){
                                 return true;
                             }
                             else{

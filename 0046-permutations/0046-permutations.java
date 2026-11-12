@@ -1,31 +1,29 @@
+import java.util.*;
+
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        
-        List<List<Integer>> ansList=new ArrayList<>();
-        permutations(0,nums,ansList);
-        return ansList;
+        List<List<Integer>> result = new ArrayList<>();
+        boolean[] used = new boolean[nums.length];
+        backtrack(nums, new ArrayList<>(), used, result);
+        return result;
     }
-    private static void permutations(int index,int[] nums,List<List<Integer>> ansList){
-        if(index==nums.length){
-            List<Integer> ds=new ArrayList<>();
-            for(int i=0;i<nums.length;i++){
-                ds.add(nums[i]);
-            }
-             ansList.add(new ArrayList<Integer>(ds));
-         return;
-        }
-       
-        for(int i=index;i<nums.length;i++){
 
-            swap(i,nums,index);
-            permutations(index+1,nums,ansList);
-            swap(i,nums,index);
-
+    private void backtrack(int[] nums, List<Integer> temp, boolean[] used, List<List<Integer>> result) {
+        if (temp.size() == nums.length) {
+            result.add(new ArrayList<>(temp));
+            return;
         }
-    }
-    private static void  swap(int i,int[] nums,int index){
-        int temp=nums[i];
-        nums[i]=nums[index];
-        nums[index]=temp;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (used[i]) continue;
+
+            used[i] = true;
+            temp.add(nums[i]);
+
+            backtrack(nums, temp, used, result);
+
+            temp.remove(temp.size() - 1);
+            used[i] = false;
+        }
     }
 }

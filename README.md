@@ -22,6 +22,7 @@ LeetCode solutions synced using LeetHub.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meghanadh169/DSA-sheet/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Meghanadh169/DSA-sheet/tree/master/0735-asteroid-collision) |
@@ -114,6 +115,7 @@ LeetCode solutions synced using LeetHub.
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -121,6 +123,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
+| [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
@@ -140,6 +143,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/Meghanadh169/DSA-sheet/tree/master/0844-backspace-string-compare) |
@@ -270,4 +274,8 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Meghanadh169/DSA-sheet/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

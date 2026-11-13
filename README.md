@@ -26,6 +26,7 @@ LeetCode solutions synced using LeetHub.
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Meghanadh169/DSA-sheet/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Meghanadh169/DSA-sheet/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Meghanadh169/DSA-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -117,6 +118,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
+| [0860-lemonade-change](https://github.com/Meghanadh169/DSA-sheet/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meghanadh169/DSA-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting

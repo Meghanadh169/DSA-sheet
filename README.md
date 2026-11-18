@@ -22,6 +22,7 @@ LeetCode solutions synced using LeetHub.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meghanadh169/DSA-sheet/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
+| [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Meghanadh169/DSA-sheet/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -116,6 +118,7 @@ LeetCode solutions synced using LeetHub.
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/Meghanadh169/DSA-sheet/tree/master/0860-lemonade-change) |
@@ -125,6 +128,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

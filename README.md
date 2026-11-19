@@ -21,6 +21,7 @@ LeetCode solutions synced using LeetHub.
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghanadh169/DSA-sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Meghanadh169/DSA-sheet/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meghanadh169/DSA-sheet/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
@@ -120,6 +121,7 @@ LeetCode solutions synced using LeetHub.
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Meghanadh169/DSA-sheet/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |

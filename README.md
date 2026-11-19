@@ -14,6 +14,7 @@ LeetCode solutions synced using LeetHub.
 | [0046-permutations](https://github.com/Meghanadh169/DSA-sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Meghanadh169/DSA-sheet/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Meghanadh169/DSA-sheet/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
@@ -129,6 +130,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
@@ -284,5 +286,6 @@ LeetCode solutions synced using LeetHub.
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

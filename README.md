@@ -17,6 +17,7 @@ LeetCode solutions synced using LeetHub.
 | [0056-merge-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Meghanadh169/DSA-sheet/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Meghanadh169/DSA-sheet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Meghanadh169/DSA-sheet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghanadh169/DSA-sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
@@ -133,6 +134,7 @@ LeetCode solutions synced using LeetHub.
 | ------- |
 | [0047-permutations-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Meghanadh169/DSA-sheet/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0611-valid-triangle-number) |
@@ -153,6 +155,7 @@ LeetCode solutions synced using LeetHub.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Meghanadh169/DSA-sheet/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Meghanadh169/DSA-sheet/tree/master/0567-permutation-in-string) |
@@ -289,5 +292,10 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Meghanadh169/DSA-sheet/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Meghanadh169/DSA-sheet/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Meghanadh169/DSA-sheet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

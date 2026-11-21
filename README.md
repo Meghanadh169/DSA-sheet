@@ -61,6 +61,7 @@ LeetCode solutions synced using LeetHub.
 | [0050-powx-n](https://github.com/Meghanadh169/DSA-sheet/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Meghanadh169/DSA-sheet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Meghanadh169/DSA-sheet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Meghanadh169/DSA-sheet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Meghanadh169/DSA-sheet/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/0227-basic-calculator-ii) |
 | [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
@@ -69,6 +70,7 @@ LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Meghanadh169/DSA-sheet/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Meghanadh169/DSA-sheet/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
@@ -266,6 +268,7 @@ LeetCode solutions synced using LeetHub.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Meghanadh169/DSA-sheet/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |

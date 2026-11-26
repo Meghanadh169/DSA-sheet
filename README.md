@@ -33,6 +33,7 @@ LeetCode solutions synced using LeetHub.
 | [0735-asteroid-collision](https://github.com/Meghanadh169/DSA-sheet/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Meghanadh169/DSA-sheet/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Meghanadh169/DSA-sheet/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Meghanadh169/DSA-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Meghanadh169/DSA-sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -74,6 +75,7 @@ LeetCode solutions synced using LeetHub.
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
+| [0931-minimum-falling-path-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0931-minimum-falling-path-sum) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -215,6 +217,7 @@ LeetCode solutions synced using LeetHub.
 | [0037-sudoku-solver](https://github.com/Meghanadh169/DSA-sheet/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
+| [0931-minimum-falling-path-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
 | ------- |

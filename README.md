@@ -36,6 +36,7 @@ LeetCode solutions synced using LeetHub.
 | [0931-minimum-falling-path-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Meghanadh169/DSA-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Meghanadh169/DSA-sheet/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1463-cherry-pickup-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Meghanadh169/DSA-sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Meghanadh169/DSA-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Meghanadh169/DSA-sheet/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -76,6 +77,7 @@ LeetCode solutions synced using LeetHub.
 | [0435-non-overlapping-intervals](https://github.com/Meghanadh169/DSA-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Meghanadh169/DSA-sheet/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/1463-cherry-pickup-ii) |
 | [3620-network-recovery-pathways](https://github.com/Meghanadh169/DSA-sheet/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -218,6 +220,7 @@ LeetCode solutions synced using LeetHub.
 | [0074-search-a-2d-matrix](https://github.com/Meghanadh169/DSA-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Meghanadh169/DSA-sheet/tree/master/0085-maximal-rectangle) |
 | [0931-minimum-falling-path-sum](https://github.com/Meghanadh169/DSA-sheet/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/Meghanadh169/DSA-sheet/tree/master/1463-cherry-pickup-ii) |
 ## Stack
 |  |
 | ------- |
